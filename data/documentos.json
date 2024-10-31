@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "tipo": "Relatório Financeiro",
+      "titulo": "Relatório Q1 2024",
+      "data": "2024-03-31",
+      "valor": 50000,
+      "departamento": "Financeiro",
+      "conteudo": "Este é o conteúdo completo do relatório financeiro do primeiro trimestre de 2024."
+    },
+    {
+      "id": "2",
+      "tipo": "Artigo Acadêmico",
+      "titulo": "Estudo sobre Inteligência Artificial",
+      "autor": "Dr. João Silva",
+      "areaEstudo": "Tecnologia",
+      "doi": "10.1000/182",
+      "conteudo": "Este artigo explora os avanços recentes em inteligência artificial..."
+    }
+  ]
